@@ -1,7 +1,8 @@
-print("Welcome to Rock, Paper Scissors!")
+import random
+import sys
+
 while True:
-    import random
-    import sys
+    print("Welcome to Rock, Paper Scissors!")
 
     user_options = ["rock", "paper", "scissors"]
     cpu_options = ["Rock", "Paper", "Scissors"]
